@@ -2,7 +2,7 @@
 QuizGame-miniproject
 
 <p align="middle" >
-    <img width="200px" src="https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/78805789-accb-4b41-add2-128e51043e78" border='0' alt="logo"/>
+    <img width="200px" src="https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/a1fc2acd-5008-49bb-9039-8f6303ff8e14" border='0' alt="logo"/>
 </p>
 <h1 align="middle">Solo en casa</h1>
 <h3 align="middle">퀴즈 미니프로젝트</h3>
