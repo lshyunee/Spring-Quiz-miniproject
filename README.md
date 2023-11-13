@@ -6,6 +6,7 @@ QuizGame-miniproject
 </p>
 <h1 align="middle">Solo en casa</h1>
 <h3 align="middle">퀴즈 미니프로젝트</h3>
+<h4 align="middle">2022.11.13 ~ 2022.11.15</h4>
 <br />
 
 ## 🎬 Introduce
@@ -24,7 +25,7 @@ QuizGame-miniproject
 ![ci-cd_white](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/b8e751a1-cf69-483c-817f-5095e1454dd2)
 
 ## 🖱️ Demo (gif)
-|페이지|
+|메인 페이지||Tvn 페이지|SBS 페이지|
 |:---:|:---:|:---:|
 |![메인페이지](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/dc20a634-ed66-4c5f-be3e-77a0ec85dd63)|
 |![Tvn페이지](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/1c83c245-f6ef-4e84-ab46-6e5b2b7a76a0)|
