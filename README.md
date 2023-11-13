@@ -26,13 +26,11 @@ QuizGame-miniproject
 
 ## 🖱️ Demo (gif)
 |메인 페이지||Tvn 페이지|SBS 페이지|
-|:---:|:---:|:---:|
+|:---:|
 |![메인페이지](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/dc20a634-ed66-4c5f-be3e-77a0ec85dd63)|
 |Tvn 페이지|
-|:---:|
 |![Tvn페이지](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/1c83c245-f6ef-4e84-ab46-6e5b2b7a76a0)|
 |SBS 페이지|
-|:---:|
 |![SBS페이지](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/751894f9-5614-44fb-9652-667b6e228da9)|
 |문제 틀렸을 경우|
 
