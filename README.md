@@ -33,12 +33,12 @@ QuizGame-miniproject
 
 |문제 틀렸을 경우|
 |:---:|
-|![실패](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/5078569f-811f-40b8-b7f5-c425d1ed70b7)|
+|![실패](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/4a5d26af-6d35-4738-b9d9-436ea197adfe)|
 
 |시간초과|
 |:---:|
-|![타임아웃](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/5868129e-afec-42f0-a292-2e92a4dd4fec)|
+|![타임아웃](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/b05ab005-c12d-4036-a344-be54366adda7)|
 
 |10문제 모두 정답|
 |:---:|
-|![정답](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/a112ca3a-abb9-4388-989a-5a286e49afae)|
+|![정답](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/28d08fb8-8178-497c-b20d-eda60c23605a)|
