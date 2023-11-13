@@ -25,7 +25,7 @@ QuizGame-miniproject
 ![ci-cd_white](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/b8e751a1-cf69-483c-817f-5095e1454dd2)
 
 ## 🖱️ Demo (gif)
-|메인 페이지||Tvn 페이지|SBS 페이지|
+|메인 페이지|
 |:---:|
 |![메인페이지](https://github.com/lshyunee/Spring-Quiz-miniproject/assets/147044110/dc20a634-ed66-4c5f-be3e-77a0ec85dd63)|
 |Tvn 페이지|
